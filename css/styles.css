@@ -1,0 +1,28 @@
+body {
+  background: rgb(46,204,113);
+  background: linear-gradient(107deg, rgba(46,204,113,1) 16%, rgba(26,188,156,1) 94%);
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#34495e;
+  border-width: 6px;
+  width: 7%;
+}
+
+h1 {
+  color: #34495e;
+}
+
+h3 {
+  color: #2c3e50;
+}
+
+p,ul,td{
+  color: #2c3e50;
+}
+td {
+
+}
